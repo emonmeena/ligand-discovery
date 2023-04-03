@@ -1,0 +1,17 @@
+[
+    {
+        "DrugID": "D00AAU",
+        "DrugName": "Demo CU-A34",
+        "DrugSMIL": "CCC(C1=CC(=CC=C1)O)C(CC)C2=CC(=CC=C2)O"
+    },
+    {
+        "DrugID": "D00AAU",
+        "DrugName": "Demo CU-A34",
+        "DrugSMIL": "CCC(C1=CC(=CC=C1)O)C(CC)C2=CC(=CC=C2)O"
+    },
+    {
+        "DrugID": "D00AAU",
+        "DrugName": "Demo CU-A34",
+        "DrugSMIL": "CCC(C1=CC(=CC=C1)O)C(CC)C2=CC(=CC=C2)O"
+    }
+]
